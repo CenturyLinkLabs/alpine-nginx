@@ -1,3 +1,7 @@
+## NOTE
+
+This repo is no longer being maintained. Users are welcome to fork it, but we make no warranty of its functionality.
+
 ## nginx
 
 [![](https://badge.imagelayers.io/centurylink/nginx.svg)](https://imagelayers.io/?images=centurylink/nginx:latest 'Get your own badge on imagelayers.io')
